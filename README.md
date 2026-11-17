@@ -45,3 +45,8 @@ Kosto: SQL ka kufi falas (10 databaza për abonim), App Service B1 (rreth 13 USD
 Lokalisht: `dotnet run --project src` (kërkon LocalDB dhe PostgreSQL ose vendosni `ConnectionStrings__*`).
 
 > Herën e parë në subscription regjistro `Microsoft.OperationalInsights`, `microsoft.insights` dhe `Microsoft.App` (`az provider register -n <emri>`).
+
+## Mesimi 3 - Terraform
+
+Infrastruktura si kod: https://github.com/fisko/FakultetiApp-Terraform
+
